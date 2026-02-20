@@ -23,7 +23,7 @@ export const Footer = () => {
               </div>
             </Link>
             <p className="text-muted-foreground text-sm leading-relaxed">
-              Premium Barbershop für den modernen Gentleman.
+              Premium Friseursalon für Damen & Herren.
               Seit Jahren die Adresse für Tradition und zeitgemäßen Stil.
           
             </p>

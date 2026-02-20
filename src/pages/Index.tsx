@@ -12,7 +12,7 @@ const Index = () => {
     <>
       <Helmet>
         {/* Titel & Meta Description */}
-        <title>Barbershop Bielefeld | Situ Men Friseursalon</title>
+        <title>Friseursalon Bielefeld | Situ Men Friseursalon</title>
         <meta
           name="description"
           content="Besuche unseren Premium Barbershop Situ Men Friseursalon in Bielefeld für erstklassige Haarschnitte, Bartpflege und individuelle Styles. Jetzt Termin buchen!"
@@ -24,7 +24,7 @@ const Index = () => {
         <link rel="canonical" href="https://gentlemanscut.de" />
 
         {/* Open Graph */}
-        <meta property="og:title" content="Situ Men Friseursalon | Premium Barbershop Bielefeld" />
+        <meta property="og:title" content="Situ Men Friseursalon | Premium Friseursalon Bielefeld" />
         <meta
           property="og:description"
           content="Erstklassige Haarschnitte und Bartpflege für den modernen Gentleman in Bielefeld."
